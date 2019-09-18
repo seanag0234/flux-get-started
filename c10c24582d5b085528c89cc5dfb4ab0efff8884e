@@ -1,0 +1,1 @@
+{"jobID":"f6a77413-73a6-8828-9657-7c96bc8cb444","spec":{"type":"policy","cause":{"Message":"3.0.* does not work for us","User":"Sean George \u003cseangeorge0@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"locked":"true","locked_msg":"3.0.* does not work for us","locked_user":"Sean George \u003cseangeorge0@gmail.com\u003e"},"remove":{}}}},"result":null}
